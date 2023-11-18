@@ -1,0 +1,13 @@
+
+ >  NX   Its time to update Nx 🎉
+
+   Your repository uses a higher version of Nx (17.1.2) than your global CLI version (16.7.4)
+   For more information, see https://nx.dev/more-concepts/global-nx
+
+
+>  NX  Generating @nrwl/angular:application
+
+
+ >  NX   Schema does not support positional arguments. Argument 'css,mtd,type:app,scope:client,server' found
+
+
